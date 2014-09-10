@@ -1,12 +1,12 @@
 function setup() {
-  createCanvas(250, 250);
+  createCanvas(2500, 2500);
   background(0);
   stroke(255);
   noFill();
-  line(101, 28, 107, 28);
-  line(98, 29, 109, 29);
-  line(96, 30, 111, 30);
-  line(94, 31, 112, 31);
+  line(1010, 280, 1070, 280);
+  line(980, 290, 1090, 290);
+  line(960, 300, 1110, 300);
+  line(940, 310, 1120, 310);
     rect(20, 20, 80, 50);
     ellipse(50, 50, 50, 50);
 }
