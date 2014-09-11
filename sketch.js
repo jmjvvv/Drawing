@@ -11,3 +11,4 @@ function setup() {
     rect(20, 20, 80, 50);
     ellipse(50, 50, 50, 50);
 }
+
